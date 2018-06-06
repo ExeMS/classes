@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lesson Calendar
-navigation: 6
+
 ---
 
 # Physics Lessons and key dates
